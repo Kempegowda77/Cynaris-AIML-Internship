@@ -50,3 +50,10 @@ Perform practical data manipulation using Pandas with a real Indian Census datas
 
 ```powershell
 python pandas_data_manipulation.py
+## Results
+
+- Demographics rows: 640
+- Population rows: 640
+- Merged records: 606
+- CSV size: 29.57 KB
+- Parquet size: 26.18 KB
