@@ -14,7 +14,7 @@ Perform Exploratory Data Analysis (EDA) on the India Census 2011 district-level 
 
 ## EDA Performed
 
-1. Generated descriptive statistics using `df.describe()`.
+1. Generated descriptive statistics using `df.describe() `.
 2. Inspected dataset structure using `df.info()`.
 3. Checked missing values using `df.isnull().sum()`.
 4. Examined numeric feature distributions.
